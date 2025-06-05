@@ -22,4 +22,4 @@ interface TarotCard {
     reversed: string;
     link: string;
 }
-export const API_URL = "http://localhost:237"
+export const API_URL = "http://localhost:232"

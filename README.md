@@ -1,7 +1,7 @@
 ## 介绍
 一个AI聊天助手,可以辅助解卦,塔罗占卜,八字命理
 ## 后端
-[AI-Diviner-Backend](https://github.com/AI-Diviner/AI-Diviner-Backend)
+[AI-Diviner-Backend](https://github.com/Let-Fate/AI-Diviner-Backend)
 ## 部署
 1. 请先安装NodeJS 20+
 2. 确保AI-Diviner-Backend已经运行
